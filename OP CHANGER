@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/GUt824An", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlolo30127/AdoptmePet-Changer/refs/heads/main/AdoptMePetChanger", true))()
